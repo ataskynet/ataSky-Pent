@@ -2,21 +2,6 @@
 
 ![DDOS](https://github.com/ekovegeance/Picture/blob/master/ddos.jpg)
 
-## Version 1.2.4
-
-![Build Status](https://travis-ci.org/pages-themes/leap-day.svg?branch=master)
-![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)
-
-**A bash script inspired by pentbox.**
-
-Designed to be a simple way to implement various network pentesting functions, including network attacks, using wherever possible readily available software commonly installed on most linux distributions without having to resort to multiple specialist tools.
-
-
-**Sudo is implemented where necesssary.**
-
-Tested on Debian and Arch.
-
-
 
 ## Requirements:
 
@@ -39,28 +24,6 @@ Tested on Debian and Arch.
 * whois (not essential but preferred)
 
 * nslookup (or 'host')
-
-## How to use?
-
-
-- Download the script:
-
-```
-$ wget https://github.com/ekovegeance/DDOS.git
-```
-
-- Make it executable:
-
-```
-$ chmod +x ./ddos
-```
-
-- Run it:
-
-```
-$ ./ddos
-```
-
 
 
 ## Module detail
@@ -142,36 +105,6 @@ The file can be sent to a server of your choice; the Listener is designed to rec
 When receiving files over UDP, the listener must be manually closed with 'Ctrl C'.  This is because we have to force netcat to stay open to receive multiple packets, since UDP is a connectionless protocol.
 When receiving files over TCP, the connection automatically closes after the client closes their connection (once the file is transferred) and md5 and sha512 checksums are calculated for the received file.
 
-
-## Disclaimer
-
-This script is only for responsible, authorised use. You are responsible for your own actions and this script is provided without warranty or guarantee of any kind.  The author(s) accept no responsibility or liability on your behalf.
-
-
-## Also see
-Pentmenu is available as a [package](https://archstrike.org/packages/pentmenu) on Arch Linux. Big love to [ArchStrike](https://archstrike.org/) and [Parrot linux](https://www.parrotsec.org/).
-
-## Donations
-
-- Address bitcoin : 1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
-- Address dogecoin   : D8LgXt1yjTXxSyMkxb6e5s26WQTmEx1JNj
-
-
- 
-
-## :octocat: Contact
-- Website : https://evsystem.github.io
-- Facebook : https://web.facebook.com/evsystem.io
-- Twitter : https://twitter.com/ekovegeance7
-- Telegram : https://t.me/evsystemsite
-- Google+ : https://plus.google.com/117233958552972040322?hl=id
-
-## : Partner
-- Xenta OS : http://www.xentaos.org/
-- IndoXploit : https://www.indoxploit.or.id/
-- dracOs Linux : https://dracos-linux.org/
-
-## Disclaimer
 
 ***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool ( evsystem ).***
 
