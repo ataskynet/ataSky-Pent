@@ -1,6 +1,6 @@
 # DDOS
 
-![DDOS](https://github.com/ekovegeance/Picture/blob/master/ddos.jpg)
+![DDOS](https://github.com/ataskynet/Picture/blob/master/ddos.jpg)
 
 
 ## Requirements:
