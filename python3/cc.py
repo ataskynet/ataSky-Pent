@@ -1,14 +1,5 @@
 #!/usr/bin/python3
-#Coded by L330n123
-#########################################
-# I removed the mixed proxies flood     #
-# because in my perspective, it doesn't #
-# give more performance when flooding.  #
-#                           -- L330n123 #
-#########################################
-'''
-I'm working on Aoyama's update so this project will stop for a while
-'''
+
 import requests
 import socket
 import socks
