@@ -334,7 +334,7 @@ def slow(conn,socks_type):
 				sys.stdout.flush()
 				pass
 nums = 0
-def checking(lines,socks_type,ms):#Proxy checker coded by Leeon123
+def checking(lines,socks_type,ms):
 	global nums
 	global proxies
 	try:#dirty fix
@@ -421,7 +421,7 @@ def main():
 	global choice
 	ip = ""
 	port = ""
-	print("> Mode: [cc/post/slow/check]")
+	print("> Proxy FloodMod: [cc/post/slow/check]")
 	mode = str(input("> Choose Your Mode (default=cc) :"))
 	if mode == "":
 		mode = "cc"
