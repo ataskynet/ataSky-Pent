@@ -20,26 +20,14 @@ import ssl
 
 
 print ('''
-       /////    /////    /////////////
-      CCCCC/   CCCCC/   | CC-attack |/
-     CC/      CC/       |-----------|/ 
-     CC/      CC/       |  Layer 7  |/ 
-     CC/////  CC/////   | ddos tool |/ 
-      CCCCC/   CCCCC/   |___________|/
->--------------------------------------------->
-Python3 version 3.1.1 (dirty fix)
-                            C0d3d by L330n123
-┌─────────────────────────────────────────────┐
-│        Tos: Don't attack .gov website       │
-├─────────────────────────────────────────────┤
-│                 New stuff:                  │
-│          + Fast Port Re-use                 │
-│          + Added Random client ip           │
-│          + Added socks mode selection       │
-│          + Fixed slow mode                  │
-├─────────────────────────────────────────────┤
-│ Link: https://github.com/Leeon123/CC-attack │
-└─────────────────────────────────────────────┘''')
+echo "8G#        __           ___________            __________               __    G@8"
+echo "8G#_____ _/  |______   /   _____/  | _____.__. \______   \ ____   _____/  |_  G@8"
+echo "8G#\__  \\   __\__  \  \_____  \|  |/ <   |  |  |     ___// __ \ /    \   __\ G@8"
+echo "8G# / __ \|  |  / __ \_/        \    < \___  |  |    |   \  ___/|   |  \  |"
+echo "8G#(____  /__| (____  /_______  /__|_ \/ ____|  |____|    \___  >___|  /__|   G@8"
+echo "8G#     \/          \/        \/     \/\/                     \/     \/       G@8"
+echo ""
+└────────────────────────────────────────────────────────────────────────────────────┘''')
 
 useragents=["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1",
 			"Mozilla/5.0 (Android; Linux armv7l; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1",
